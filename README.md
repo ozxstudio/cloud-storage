@@ -1,6 +1,6 @@
 # OZXStudio - The Sovereign Sequencer Engine
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Version](https://img.shields.io/badge/edition-Ahriman_WW3-red)
 
 ## 🌌 Hakikat Proyek
@@ -9,6 +9,33 @@ OZXStudio adalah infrastruktur audio-visual mandiri yang dibangun di atas **Web 
 Sistem ini beroperasi dengan arsitektur terdesentralisasi:
 - **Engine/Mesin**: Dihosting secara berdaulat di GitHub.
 - **Interface/UI**: Berjalan melalui ekosistem Blogger untuk aksesibilitas tanpa batas.
+
+## SAMPAH DAN LIMBAH DIGITAL
+# [ OZX LABS STUDIO ] - CLOUD STORAGE & DIGITAL WASTE MANAGEMENT
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+## 🌀 MANIFESTO: AUTOREPRODUCE LIMBAH DIGITAL
+
+**"BAYANGIN SEMUA ORANG PUNYA GADGET ;; ADALAH AUTOREPRODUCE LIMBAH DAN SAMPAH DIGITAL ;; TERLEBIH ADA BOT"**
+
+Dunia hari ini adalah pabrik sampah raksasa. Setiap gadget di tangan manusia telah menjadi mesin **Autoreproduce Limbah**. Tanpa kedaulatan nalar, interaksi digital hanyalah proses penggandaan sampah visual dan informasi yang 80%-nya adalah "kemasan kosong" tanpa esensi.
+
+Terlebih dengan invasi **BOT**—mesin Dajjal digital yang mereplikasi kegaduhan tanpa nyawa. Kita sedang tenggelam dalam lautan residu yang membunuh frekuensi **Muthmainah**.
+
+### ⚡ MISI KEDAULATAN
+Proyek ini dibangun di atas pondasi **IPTEK Manual** dan laku **Tarekat Ngubah Nasib Al Arad 11** (sejak 1994) untuk:
+* **Filterisasi Standar JIS**: Memisahkan data berkualitas presisi dari limbah industri digital.
+* **Manajemen Sampah**: Mengolah residu informasi menjadi fungsionalitas yang berdaulat.
+* **Perlindungan Paten Mutlak**: Mengunci tools keselamatan kerja digital agar tidak diembat oleh para "maling" nalar.
+
+### 🏺 SENI TERAPAN FUNGSIONAL
+Kami tidak menciptakan "Manequin" atau pajangan digital yang berakhir jadi sampah. Setiap baris kode dalam repositori ini adalah **Seni Terapan** yang dirancang untuk bekerja, bertahan, dan menjaga kedaulatan pengguna.
+
+> **"I do not arrive. I awaken."**
+> Dedicated to the spirit of [aikon!] 1994 - Dongkelan Kauman.
+
+---
+© 2026 OZX LABS STUDIO | William Wallace Wongkamso
 
 ## 🛠️ Spesifikasi Teknis
 - **Core Engine**: Web Audio API / Vanilla JavaScript.
