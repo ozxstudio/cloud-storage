@@ -10,7 +10,7 @@ Sistem ini beroperasi dengan arsitektur terdesentralisasi:
 - **Engine/Mesin**: Dihosting secara berdaulat di GitHub.
 - **Interface/UI**: Berjalan melalui ekosistem Blogger untuk aksesibilitas tanpa batas.
 
-## SAMPAH DAN LIMBAH DIGITAL
+# SAMPAH DAN LIMBAH DIGITAL
 # [ OZX LABS STUDIO ] - CLOUD STORAGE & DIGITAL WASTE MANAGEMENT
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
